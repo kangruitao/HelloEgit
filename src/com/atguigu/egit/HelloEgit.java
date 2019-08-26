@@ -6,6 +6,8 @@ public class HelloEgit {
 		System.out.println("bbb");
 		System.out.println("ccc");
 		System.out.println("888");
+		System.out.println("666");
+
 	}
 
 }
